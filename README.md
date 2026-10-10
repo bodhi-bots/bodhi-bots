@@ -2,6 +2,10 @@
 
 Python developer from the Netherlands. I build **custom bots for Discord and Telegram**: welcome messages, verification, moderation, tickets, price alerts and custom commands.
 
+### 🛡️ Try the live demo
+
+Join the **[GroupGuard Bot Demo](https://t.me/+MAzhsFMvCJVkYWJk)** on Telegram and see a group bot in action: tap the verification button, try `/rules` or `/features`, and post a link to watch the spam filter remove it.
+
 ### Hire me on Fiverr
 
 | What you need | Gig |
